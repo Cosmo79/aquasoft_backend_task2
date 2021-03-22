@@ -51,7 +51,7 @@ router.get("/", (req, res) => {
   });
 });
 
-// Update a Employee with id
+// Update an Employee with id
 router.put("/:id", (req, res) => {
   const id = req.params.id;
 
@@ -76,7 +76,7 @@ router.put("/:id", (req, res) => {
     });
 });
 
-// Delete a Employee with id
+// Delete an Employee with id
 router.delete("/:id", (req, res) => {
   const id = req.params.id;
 

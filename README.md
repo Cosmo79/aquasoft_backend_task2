@@ -1,8 +1,4 @@
 # aquasoft_backend_task2
-- npx express-generator (genereaza automat o aplicatie express, comanda valabila pentru node.js 8.2.0 sau mai nou)
-
-Comenzi necesare:
-- npm i
 
 Task-ul pentru back-end consta in crearea unui proiect Express cu urmatoarele cerinte:
 
